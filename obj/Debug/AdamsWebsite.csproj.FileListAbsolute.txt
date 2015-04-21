@@ -1,0 +1,6 @@
+C:\Users\Adam\Desktop\Slightly less bab website maybe\AdamsWebsite\AdamsWebsite\bin\AdamsWebsite.dll.config
+C:\Users\Adam\Desktop\Slightly less bab website maybe\AdamsWebsite\AdamsWebsite\bin\AdamsWebsite.dll
+C:\Users\Adam\Desktop\Slightly less bab website maybe\AdamsWebsite\AdamsWebsite\bin\AdamsWebsite.pdb
+C:\Users\Adam\Desktop\Slightly less bab website maybe\AdamsWebsite\AdamsWebsite\obj\Debug\AdamsWebsite.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\Slightly less bab website maybe\AdamsWebsite\AdamsWebsite\obj\Debug\AdamsWebsite.dll
+C:\Users\Adam\Desktop\Slightly less bab website maybe\AdamsWebsite\AdamsWebsite\obj\Debug\AdamsWebsite.pdb
